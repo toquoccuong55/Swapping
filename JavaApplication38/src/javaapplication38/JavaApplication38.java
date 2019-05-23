@@ -18,9 +18,11 @@ public class JavaApplication38 {
         // TODO code application logic here
         int a = 3;
         int b = 4;
+        int c = 5;
         
         System.out.println(a);
         System.out.println(b);
+        System.out.println(c);
     }
     
 }
